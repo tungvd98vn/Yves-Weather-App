@@ -1,3 +1,14 @@
 page-settings {
-
+	.bg{
+		background-image:
+		linear-gradient(
+			rgba(0, 0, 0, 0.5),
+			rgba(0, 0, 0, 0.5)
+		),
+		url('../assets/imgs/yves pic.png');
+		background-size: contain;
+		background-repeat: repeat;
+		background-position: center;
+		margin-top: 30px;
+	}
 }
